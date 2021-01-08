@@ -1,0 +1,205 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+    
+}
+/*Header*/
+.btn-box{
+      background-color: #C88934 ;
+      color: #fff;
+      border-radius: 10px;
+      width: 130px;
+      height: 50px;
+}
+.box{
+   
+    background-color: #C88934 ;
+    width: 60px;
+    height: 5px;
+}
+ 
+ img.main-picture {
+    width: 100%;
+    height: 828px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+  .header p{
+      
+    font-size: 70px;
+    line-height: 70px;
+  }
+  .header{
+    margin-top: 11em;
+  }
+  p.content,span.content{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    color:#888888;
+    line-height: 20px;
+  }
+  i{
+    font-size: 40px;
+}
+
+  i:hover{
+    color: rgba(51, 51, 51, 0.7);
+  }
+
+  /*MAIN*/
+  div.office{
+     margin-top: 30em;
+
+  }
+  
+   .card{
+      border: none;
+      width: 390px;
+      height: 340px;
+  }
+  .office .card img{
+    position:absolute;
+    width: 379px;
+    height: 326px;
+  }
+  .office .card-body img{
+   
+    box-shadow:  5px 10px 10px #888888;
+    width: 349px;
+    height: 218px;
+    border-radius: 20px;
+      
+  }
+  .office .card-text{
+      position: absolute;
+      margin-top: 16em;
+      margin-left: 10px;
+  } 
+  .office i{
+    position: absolute;
+    margin-top: 6.2em;
+    margin-left: 7em;
+    color: #C88934 ;
+  }
+  .office i:hover{
+    color: rgba(51, 51, 51, 0.7);
+  }
+  main p.content,p.footer-content{
+font-size: 16px;
+line-height:30px;
+  }
+
+  .background-box{
+    background: #F5F5F5;
+    width: 100%;
+    height: 509px;
+    position: absolute;
+    margin-bottom: 80px;
+}
+div.anthony img{
+  margin-left: 90px;
+}
+div.anthony img.quotes{
+    margin-left:120px;
+    margin-top: -50px;
+}
+
+.background-box div.card{
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 100%;
+
+}
+
+span.arrow {
+    
+    margin-left: 350px;
+}
+span.arrow i{
+    font-size: 20px;
+    margin-left: 40px;
+}
+span.arrow i:hover{
+   color: #000;
+}
+
+div.avatar{
+    margin-top:18em;
+    background-color: #fff;
+   height:100%; 
+    width: 100%;   
+}
+.avatar img{  
+    margin-left: -15px;
+}
+
+.avatar .fa-thumbs-up{
+   color: #C88934;
+   font-size:40px;
+}
+
+
+/*Footer*/
+
+.footer-box{
+background: #36210D;
+}
+
+
+.footer-header p{
+   color: #fff;
+   font-size: 50px;
+}
+
+.footer-btn button{
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+.footer-btn .btn-1{
+    width: 250px;
+    height: 56px;
+    background-color: #fff;
+    color:#36210D;
+}
+.footer-btn .btn-2{
+    width: 182px;
+    height: 56px;
+    color: #fff;
+    border: 2px solid #fff;
+}
+.footer-btn .btn-1:hover{
+    color: #fff;
+    background-color :#36210D;
+    border:2px solid #fff;
+}
+.footer-btn .btn-2:hover{
+    color:#36210D;
+    background-color: #fff;
+}
+.footer-hr{  
+   margin-top: 8em;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+.logo-header{
+    font-size: 36px;
+    color: #fff;
+}
+.social-media i{
+    color: #fff;
+    font-size: 25px;
+    letter-spacing:2px;
+}
+
+.list li{
+ 
+    list-style-type: none;
+    color: #fff;
+    margin-top: 20px;
+}
+.star i{
+  font-size: 25px;
+  color: #FF8B00;
+}
